@@ -182,7 +182,7 @@ Leave the longest lead (common cathode) untouched, but trim the other leads as s
 
 ![Preparing the LED](http://simonmonk.org/wp-content/uploads/2015/04/02_helping-hands-copy.jpg)
 
-A apir of helping hands will - well - help.
+A pair of helping hands will - well - help.
 
 ## Step 2. Solder on the resistors
 
